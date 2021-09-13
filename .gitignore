@@ -1,0 +1,8 @@
+.idea/
+org.lbpframework.gramma/target/
+org.lbpframework.utils/target/
+org.lbpframework.web/target/
+org.lbpframework.vpn/target/
+org.lbpframework.object/target/
+org.lbpframework.logging/target/
+org.lbpframework.web.servlet/target/
