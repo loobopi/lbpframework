@@ -9,6 +9,9 @@
         <groupId>org.lbpframework</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+	
+	
+	
 
     <artifactId>org.lbpframework.web.servlet</artifactId>
     <packaging>war</packaging>
